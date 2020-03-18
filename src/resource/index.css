@@ -33,5 +33,7 @@ code {
 }
 #news_id_master{
   box-sizing: unset !important;
-
+}
+.first_card{
+  height: 185px;
 }
