@@ -1,0 +1,4 @@
+header .masthead{
+    height: 10vh !important;
+    min-height: 50px !important;
+}

@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+#mainNav .navbar-nav > li > a.active {
+  color: #fdcc52 !important;
+  background-color: rgba(59, 55, 55, 0.8) !important;
+}
+.card_news_img{
+  height: 300px;
+}
+.card_realted_news_img{
+  height: 200px;
+}
+
+.card_news_title h4{
+  height: 100px !important;
+}
+.news{
+  width: 100% !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+#news_id_master{
+  box-sizing: unset !important;
+
+}
