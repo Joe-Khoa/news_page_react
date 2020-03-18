@@ -22,7 +22,9 @@ code {
 .card_realted_news_img{
   height: 200px;
 }
-
+.first_relate_new{
+  height: 190px;
+}
 .card_news_title h4{
   height: 100px !important;
 }
